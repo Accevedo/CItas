@@ -103,7 +103,7 @@ function Formulario({Autos, setAutos,  AutoCustomer, setAutoCustomer}) {
     <div className=" text-center md:w-1/2  xl:w-2/5">
     <h2 className="text-white 
      font-bold text-3xl font-serif">
-      Seguimiento Automovil
+      Seguimiento Automovil GitHUB
     </h2>
 
        <p 
